@@ -7,7 +7,14 @@ For this, I am aiming to learn statistics bit by bit, one concept at a time. My 
 This includes a lot of unlearning as most of the concepts to be learned n initial days might be already covered in our high school math/ statistics course.
 I wish to learn statistics intuitively with lots of practice and analysing real world problems. 
 
-The following are the resources, I believe, will help in my journey:
+### Contents
+
+- Day 1 : Method of Least Squares
+- Day 2 : Method of central Tendency
+- Day 3 : Conditional Probability
+
+
+### Resources
 
 1. An Introduction to Statistical Learning: with Applications in R.
 Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2014.  Springer Publishing Company, Incorporated.
