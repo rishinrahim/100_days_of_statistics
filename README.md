@@ -16,17 +16,12 @@ I wish to learn statistics intuitively with lots of practice and analysing real 
 
 ### Resources
 
-1. An Introduction to Statistical Learning: with Applications in R.
-Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2014.  Springer Publishing Company, Incorporated.
-
-2. Statistics in a Nutshell, 2nd Edition
+1. Statistics in a Nutshell, 2nd Edition
 by Sarah Boslaugh Released November 2012 Publisher(s): O'Reilly Media, Inc.
 
-3. An Introduction to Statistics: An Active Learning Approach
+2. An Introduction to Statistics: An Active Learning Approach
 by Kieth A. Carlson  (Author), Jennifer R. Winquist (Author) 
 
-4. The Elements of Statistical Learning
-T. Hastie, R. Tibshirani, and J. Friedman. Springer Series in Statistics Springer New York Inc., New York, NY, USA, (2001)
 
 
 
