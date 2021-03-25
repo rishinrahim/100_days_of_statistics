@@ -13,6 +13,8 @@ I wish to learn statistics intuitively with lots of practice and analysing real 
 - Day 2 : Method of central Tendency
 - Day 3 : Conditional Probability
 - Day 4 : Probability Distribution
+- Day 5 : Discrete and Continuous Random Variables
+
 
 
 ### Resources
